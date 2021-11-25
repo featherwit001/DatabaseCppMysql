@@ -1,4 +1,4 @@
-# DatabaseMysqlC-
+# DatabaseCppMysql
 数据库系统概论实验
 
-需要配置 mysql.h等文件
+VS019需要添加依赖项等操作。
